@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Brightpearl is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.brightpearl.com/
+Brightpearl provides a cloud‑based retail operating system for multichannel ecommerce businesses, offering inventory, order, accounting, CRM, and analytics capabilities. The platform helps retailers streamline operations, integrate with major ecommerce marketplaces, and gain real‑time insights to improve efficiency and customer experience.
+
+**Areas:** Company · Retail · Ecommerce · SaaS · ERP · Inventory
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.brightpearl.com/)
+- [Documentation](https://api-docs.brightpearl.com/)
+- [Support](https://help.brightpearl.com/s/)
+- [Blog](https://www.brightpearl.com/blog)
+- [Security](https://www.brightpearl.com/security)
+- [Privacy policy](https://www.brightpearl.com/privacy-policy)
+- [GitHub](https://github.com/Brightpearl)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/brightpearl/](https://apis.io/providers/brightpearl/).
